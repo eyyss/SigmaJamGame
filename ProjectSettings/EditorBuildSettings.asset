@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Game/Scenes/Menu.unity
+    guid: fbc8b8427c1d3e74ca919901235cf292
+  - enabled: 1
+    path: Assets/_Game/Scenes/Office.unity
+    guid: 8757e3196a6ce184882ba546945596c6
+  - enabled: 1
+    path: Assets/_Game/Scenes/Parkgarage_demo.unity
+    guid: 815b67f4a486d044db020e67e06ab4aa
   m_configObjects: {}
